@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saucedemo", "Saucedemo\Saucedemo.csproj", "{6FADE652-5259-46C6-BCE2-DE8BECB0478A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FADE652-5259-46C6-BCE2-DE8BECB0478A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FADE652-5259-46C6-BCE2-DE8BECB0478A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FADE652-5259-46C6-BCE2-DE8BECB0478A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FADE652-5259-46C6-BCE2-DE8BECB0478A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46B0DA0-56C4-4920-804B-98CE94F57E7B}
+	EndGlobalSection
+EndGlobal
