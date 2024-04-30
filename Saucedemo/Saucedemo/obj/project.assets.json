@@ -9811,23 +9811,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Users\\MohammedAfreen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myworks\\Saucedemo\\Saucedemo\\Saucedemo.csproj",
+      "projectUniqueName": "D:\\My_code\\saucedemo\\Saucedemo\\Saucedemo\\Saucedemo.csproj",
       "projectName": "Saucedemo",
-      "projectPath": "D:\\myworks\\Saucedemo\\Saucedemo\\Saucedemo.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\myworks\\Saucedemo\\Saucedemo\\obj\\",
+      "projectPath": "D:\\My_code\\saucedemo\\Saucedemo\\Saucedemo\\Saucedemo.csproj",
+      "packagesPath": "C:\\Users\\MohammedAfreen\\.nuget\\packages\\",
+      "outputPath": "D:\\My_code\\saucedemo\\Saucedemo\\Saucedemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MohammedAfreen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9835,6 +9835,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9914,7 +9915,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
